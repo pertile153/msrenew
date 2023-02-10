@@ -1,1 +1,1 @@
-rDate
+ECHO est  desativado.
