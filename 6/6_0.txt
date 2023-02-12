@@ -1,1 +1,1 @@
-ECHO est  desativado.
+11761 %32000 +1
