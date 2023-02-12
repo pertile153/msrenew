@@ -1,1 +1,1 @@
-11761 %32000 +1
+ECHO est  desativado.
